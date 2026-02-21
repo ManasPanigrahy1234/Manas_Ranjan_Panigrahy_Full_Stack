@@ -24,6 +24,8 @@ Database
 •	Store owner dashboard to view ratings
 •	Secure password encryption
 <img width="290" height="357" alt="image" src="https://github.com/user-attachments/assets/c1f3a429-1dd3-4a54-ab50-b26cbc9ebe29" /># Manas_Ranjan_Panigrahy_Full_Stack
+
+
 **Prerequisites**
 Install the following:
 •	Node.js
